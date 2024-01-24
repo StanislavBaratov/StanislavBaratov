@@ -34,3 +34,10 @@ Link: https://yandex.ru/cup/?ysclid=lpzj3z7xg0900140276
 My solution: https://github.com/StanislavBaratov/YandexCupRecSys2023
 
 The goal of this competition is making a model which predicts music genre from embeddings of music track. Solution of this task allows improve the quality of reccomendations of "My Wave" service of Yandex Music platform. My first experience in DL. Mistakes, mistakes and ...mistakes again.
+
+3. SenNet + HOA Hacking the Human Vasculature in 3D competition
+
+The goal of this competition is making a model for blood vessels segmentation.
+Link to competition: https://kaggle.com/competitions/blood-vessel-segmentation
+My solution: https://github.com/StanislavBaratov/HackingBloodVasculature
+
