@@ -30,4 +30,4 @@ Link: https://yandex.ru/cup/?ysclid=lpzj3z7xg0900140276
 
 My solution: https://github.com/StanislavBaratov/YandexCupRecSys2023
 
-This is my largest contest at the moment. The goal of this competition is making a model which predicts music genre from embeddings of music track. Solution of this task allows improve the quality of reccomendations of "My Wave" service of Yandex Music platform.
+The goal of this competition is making a model which predicts music genre from embeddings of music track. Solution of this task allows improve the quality of reccomendations of "My Wave" service of Yandex Music platform. My first experience in DL. Mistakes, mistakes and ...mistakes again.
