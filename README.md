@@ -38,6 +38,8 @@ The goal of this competition is making a model which predicts music genre from e
 3. SenNet + HOA Hacking the Human Vasculature in 3D competition
 
 The goal of this competition is making a model for blood vessels segmentation.
+
 Link to competition: https://kaggle.com/competitions/blood-vessel-segmentation
+
 My solution: https://github.com/StanislavBaratov/HackingBloodVasculature
 
