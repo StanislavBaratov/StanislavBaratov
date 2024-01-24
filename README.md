@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Stanislav Baratov. I'm beginner data scientist.
+My name's Stanislav Baratov.
 
 About me:
 - 23 y.o.
